@@ -1,0 +1,8 @@
+1. if-else
+2. for
+3. while
+4. function
+
+User Defined Functions
+def function_name(argument):
+	action(return)
